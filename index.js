@@ -12,4 +12,4 @@ for (let i = 1; i <= 10; i++) {
 
 console.log(resultado);
 
-fs.writeFileSync(`tablas/tabla-del-${base}`, resultado)
+fs.writeFileSync(`tablas/tabla-del-${base}`, resultado);
