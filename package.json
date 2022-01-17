@@ -1,0 +1,24 @@
+{
+  "name": "node-iniciacion",
+  "version": "0.0.1",
+  "description": "Voy a crear una aplicacion de lineas de comandos para multiplicar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matulegui201297/node-iniciacion.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "multiplication"
+  ],
+  "author": "Mateo Leguizamon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matulegui201297/node-iniciacion/issues"
+  },
+  "homepage": "https://github.com/Matulegui201297/node-iniciacion#readme"
+}
