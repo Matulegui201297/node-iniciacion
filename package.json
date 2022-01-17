@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Matulegui201297/node-iniciacion/issues"
   },
-  "homepage": "https://github.com/Matulegui201297/node-iniciacion#readme"
+  "homepage": "https://github.com/Matulegui201297/node-iniciacion#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
