@@ -1,5 +1,5 @@
 # node-iniciacion
 
-* NPM
-* Package.json
-* Se instalo el paquete Nodemon
+* NPM.
+* Package.json.
+* Se instalo el paquete Nodemon.
