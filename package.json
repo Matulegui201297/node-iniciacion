@@ -4,7 +4,7 @@
   "description": "Voy a crear una aplicacion de lineas de comandos para multiplicar",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index",
+    "dev": "npx nodemon index",
     "start": "node index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -27,6 +27,7 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "colors": "^1.4.0",
     "yargs": "^17.3.1"
   }
 }
