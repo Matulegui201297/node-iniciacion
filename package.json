@@ -25,5 +25,8 @@
   "homepage": "https://github.com/Matulegui201297/node-iniciacion#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "yargs": "^17.3.1"
   }
 }

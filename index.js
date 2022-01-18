@@ -1,15 +1,7 @@
-const fs = require('fs');
+const {multiplicar} = require('./multiplicador/index-mult');
 
-const base = 2;
+console.log(argv._);
 
-console.log(`================== 
-    Tabla del ${base}
-==================`);
-let resultado = ' ';
-for (let i = 1; i <= 10; i++) {
-    resultado += `${base} * ${i} = ${base * i}\n`
-}
+const base = 5;
 
-console.log(resultado);
-
-fs.writeFileSync(`tablas/tabla-del-${base}`, resultado);
+multiplicar (base);
